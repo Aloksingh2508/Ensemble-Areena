@@ -23,6 +23,7 @@ scikit-learn models** - nothing is faked.
 - **Voting Arena:** predict the hard- or soft-vote of three models; 3 correct rounds complete the level.
 - **Final Championship:** 6-step wizard (Dataset → Select Models → Configure → Train → Compare → Choose). You win if your pick's test F1 is within 0.005 of the best.
 - Progress lives in your browser **session**. Use *Settings → Export progress* to keep it. There is no server-side score storage.
+link- https://aloksingh2508.github.io/Ensemble-Areena/
 
 ## Project structure
 ```
