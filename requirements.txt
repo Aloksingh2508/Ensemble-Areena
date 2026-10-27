@@ -1,0 +1,8 @@
+streamlit>=1.50
+scikit-learn>=1.4
+numpy>=1.26
+pandas>=2.0
+matplotlib>=3.8
+plotly>=5.20
+# Optional: adds XGBoost to the playground
+# xgboost>=2.0
